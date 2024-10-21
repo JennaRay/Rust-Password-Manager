@@ -6,7 +6,7 @@ This program is a password manager application. It allows the user to create and
 
 In this day of technology, there are so many different things that was us to create a username and a password, all with their own unique requirements. It can be hard to remember every single password that you have, especially if you're using some kind of algorithm to make them stronger. This program is meant to help the user remember passwords in a secure way.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8VnXcjXdb-A)
 
 # Development Environment
 
